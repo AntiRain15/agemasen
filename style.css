@@ -1,0 +1,21 @@
+body
+{
+    background-color: #FFC0CB;
+    text-align: center;
+}
+
+.hidden
+{
+    display: none;
+}
+
+#agemasen
+{
+    color: white;
+    font-size: 3vw;
+}
+
+.img
+{
+    height: 50vh;
+}
